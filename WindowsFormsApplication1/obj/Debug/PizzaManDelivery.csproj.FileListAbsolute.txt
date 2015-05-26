@@ -1,0 +1,9 @@
+C:\Users\Rafał\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PizzaManDelivery.exe.config
+C:\Users\Rafał\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PizzaManDelivery.exe
+C:\Users\Rafał\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PizzaManDelivery.pdb
+C:\Users\Rafał\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PizzaManDelivery.csprojResolveAssemblyReference.cache
+C:\Users\Rafał\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PizzaManDelivery.Properties.Resources.resources
+C:\Users\Rafał\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PizzaManDelivery.csproj.GenerateResource.Cache
+C:\Users\Rafał\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PizzaManDelivery.exe
+C:\Users\Rafał\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PizzaManDelivery.pdb
+C:\Users\Rafał\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PizzaManDelivery.PizzaMan.resources
